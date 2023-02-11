@@ -1,8 +1,13 @@
-# Stroma Vision Project
-Stroma Vision nesne tespiti ve takibi çalışmasını içermektedir.
+# Bolts and Nuts Tracking Project
+Nesne tespiti ve takibi çalışması.
 
 ![Output](./output_Trim.gif)
 
+Daha detaylı anlatım ve kullanım için object_tracking_nuts_and_bolts.ipynb dosyasını çalıştırın
+
+ya da
+
+## Hızlı inceleme:
 
 ```
 pip install -r requirements.txt
